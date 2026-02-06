@@ -34,7 +34,5 @@ Pandas • NumPy • PostgreSQL • VirtualBox • VMware
 
 ---
 
-## 📫 Contacto
 
-📧 joselhu2@gmail.com
 
