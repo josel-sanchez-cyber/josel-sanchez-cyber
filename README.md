@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy José Luis Sánchez Tamayo
 
-<!--
-**josel-sanchez-cyber/josel-sanchez-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Ingeniero en Ciberseguridad  
+🔍 Pentesting | Malware Analysis | Automatización | IA aplicada a Seguridad  
 
-Here are some ideas to get you started:
+Soy ingeniero especializado en el desarrollo de soluciones de ciberseguridad y sistemas inteligentes basados en modelos de lenguaje (LLMs), RAG y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en:
+- Desarrollo de asistentes conversacionales de ciberseguridad
+- Automatización de tareas de pentesting
+- Análisis de vulnerabilidades y malware
+- Investigación en IA aplicada a Security
+
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 [AI Cybersecurity Chatbot (RAG)](https://github.com/TUUSUARIO/ai-cybersecurity-chatbot-rag)  
+Sistema conversacional inteligente para soporte técnico y educación sobre malware usando LLaMA + ChromaDB.
+
+🔹 Próximamente:
+- Pentesting labs
+- Scripts de automatización con Nmap
+- Herramientas OSINT
+- Agentes de seguridad con n8n
+
+---
+
+## 🛠 Stack Técnico
+
+Python • Nmap • BurpSuite • Metasploit • Wireshark  
+Kali Linux • Parrot OS • ChromaDB • HuggingFace • LLaMA  
+Pandas • NumPy • PostgreSQL • VirtualBox • VMware  
+
+---
+
+## 📫 Contacto
+
+📧 joselhu2@gmail.com
+
