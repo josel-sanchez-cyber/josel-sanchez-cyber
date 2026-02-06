@@ -32,7 +32,7 @@ Python • Nmap • BurpSuite • Metasploit • Wireshark
 Kali Linux • Parrot OS • ChromaDB • HuggingFace • LLaMA  
 Pandas • NumPy • PostgreSQL • VirtualBox • VMware  
 
----
+
 
 
 
