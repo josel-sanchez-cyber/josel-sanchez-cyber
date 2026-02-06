@@ -21,7 +21,7 @@ Asistente conversacional inteligente para soporte técnico y educación sobre ma
 - Integración con Telegram
 
 👉 **Repositorio:**  
-[https://github.com/TUUSUARIO/ai-cybersecurity-chatbot-rag](https://github.com/josel-sanchez-cyber/ai-cybersecurity-chatbot-rag)
+https://github.com/josel-sanchez-cyber/ai-cybersecurity-chatbot-rag
 ---
 
 ## 🛠 Stack Técnico
