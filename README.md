@@ -22,7 +22,6 @@ Asistente conversacional inteligente para soporte técnico y educación sobre ma
 
 👉 **Repositorio:**  
 https://github.com/TUUSUARIO/ai-cybersecurity-chatbot-rag
-
 ---
 
 ## 🛠 Stack Técnico
